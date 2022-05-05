@@ -9,8 +9,8 @@ issue for discussion: https://github.com/hundred-finance/hundred-interface/issue
 pull request: https://github.com/hundred-finance/hundred-interface/pull/41
 
 ## Ethfolio
-link to dApp: https://www.ethfolio.me/
+link to dApp: https://www.ethfolio.me/  
 pull request: https://github.com/SouravInsights/ethfolio/pull/1
 
 ## Dashboar (my app)
-link to dApp: https://dashboar.netlify.app/
+link to dApp: https://dashboar.netlify.app/  
