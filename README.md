@@ -3,10 +3,10 @@ Integrating UNS "Login with Unstoppable" login option to various different Dapps
 
 ![alt text](https://github.com/0xfuje/login-with-unstoppable/blob/main/assets/login-with-unstoppable-button.png "Unstoppable Domains Login Button")  
 
-## Hundred Finance
+## #1 Hundred Finance
 link to dApp: https://hundred.finance/  
 issue for discussion: https://github.com/hundred-finance/hundred-interface/issues/40  
 pull request: https://github.com/hundred-finance/hundred-interface/pull/41
 
-## Dashboar (my app)
+## #2 Dashboar (my app)
 link to dApp: https://dashboar.netlify.app/  
