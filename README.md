@@ -8,5 +8,5 @@ link to dApp: https://hundred.finance/
 issue for discussion: https://github.com/hundred-finance/hundred-interface/issues/40  
 pull request: https://github.com/hundred-finance/hundred-interface/pull/41
 
-## #2 Dashboar (my app)
+## #2 Dashboar
 link to dApp: https://dashboar.netlify.app/  
