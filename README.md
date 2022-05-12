@@ -21,18 +21,3 @@ pull request: https://github.com/mstable/mStable-apps/pull/143
 link to dApp: https://eth.mirror.finance/
 issue for discussion: https://github.com/Mirror-Protocol/eth-web-dapp/issues/1
 pull request: https://github.com/Mirror-Protocol/eth-web-dapp/pull/2
-
-## #5 Quickswap
-link to dApp: https://quickswap.exchange/#/swap
-
-## #6 Hop Protocol
-link to dApp: https://hop.exchange/
-
-## #7 Beefy Finance
-link to dApp: https://beefy.finance/
-
-## #8 Kwenta
-link to dApp: https://kwenta.io/
-
-## #9 Badger Finance
-link to dApp: https://app.badger.com/
